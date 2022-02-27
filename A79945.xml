@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a country committee-man, with the eare-marke of a sequestrator.</title>
+            <author>Cleveland, John, 1613-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79945</idno>
+            <idno type="STC">Wing C4656</idno>
+            <idno type="STC">Thomason E571_5</idno>
+            <idno type="EEBO-CITATION">99864161</idno>
+            <idno type="PROQUEST">99864161</idno>
+            <idno type="VID">165342</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a country committee-man, with the eare-marke of a sequestrator.</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>[6], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: I:C., i.e. John Cleveland.</note>
+                  <note>Annotation on Thomason copy: "August. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165342:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE CHARACTER OF A COUNTRY Committee-man, With the Eare-marke of a SEQUESTRATOR.</p>
+            <p>LONDON, Printed in the Yeare, 1649. <add>August. 21</add>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:165342:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:165342:2"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>NEver were the Scales ſo even be<g ref="char:EOLhyphen"/>tweene preſumption and diſpaire as they are now poyſed in the aſ<g ref="char:EOLhyphen"/>piring votary, for as the height of your Judgement makes me juſtly diffident of my unworthy offering, ſo I am aſſured your cenſure will relent in pardon; when you looke upon it as an error of devotion, the ſame alter which diſdains the acceptance of my blemiſhed ſacrifice, will nevertheleſſe give refuges and protection to your grove<g ref="char:EOLhyphen"/>ling offenders: Madam, It is a violation of your worth, to preſent you with vanities, all ſacriledge is not dreſſed after the faſhio<g ref="char:EOLhyphen"/>nable cut of this age, in Rapine and Rob<g ref="char:EOLhyphen"/>berie, it may bee committed in giving,
+<pb facs="tcp:165342:3"/>
+               <!-- PDF PAGE 9 -->where the gift is a demunition and by a ſcandalous homelineſſe, profaneſſe, as it were the very conſecration, but I will not traverſe your Ladiſhips commands by plea<g ref="char:EOLhyphen"/>ding the meaneſſe of the trifle you have dey<g ref="char:EOLhyphen"/>ned to require, I am reſolved to obey you at all adventures, and with the loſſe both of credit and modeſtie to inhance my obſer<g ref="char:EOLhyphen"/>vance, let others in their addreſſes ſeek af<g ref="char:EOLhyphen"/>ter fame, and by chooſing Honourable Goſſips to their pettie Iſſue, drive a luſtre from their Dedications, my endeavours are of a more baſhfull Mode, then to aske bleſ<g ref="char:EOLhyphen"/>ſing of the ſunne, yet ſince your Ladiſhips ſummons hath beene pleaſed to intitle them to a roome in your Cabinet, that Ca<g ref="char:EOLhyphen"/>binet which alone is Theater ſufficient for all the rarities and perfections of the Age, they ſhall attend you Madam, but ſtriped of all intereſt ſince a ſinceere obedience, as you may ſee by my encloſed Committee<g ref="char:EOLhyphen"/>man, who is ſo voyd of Ornament that he ſeemes to be ſhaped, after his new Modell of ſelf deniall, Madam it is a Brittiſh tri<g ref="char:EOLhyphen"/>bute
+<pb facs="tcp:165342:3"/>
+               <!-- PDF PAGE 9 -->that Antiquity paid in the head of wolves, how aptly this preſent of the Committee-man revives the Cuſtome; for as his ravenous nature hath a neere alliance with that of the other, ſo nonefitter to re<g ref="char:EOLhyphen"/>turne to the firſt fruits, of his tributary pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <p>Than your Ladiſhip who have ſuffered ſo much by the ſavage Beaſt in your worry<g ref="char:EOLhyphen"/>ed fortune, in which my attempt of vin<g ref="char:EOLhyphen"/>dicative Juſtice, if my abillities have not kept pace with my deſire, if my revenge be not as keene and poynant as the malice of my ſubject, it will be your Charity to ima<g ref="char:EOLhyphen"/>gine that I was dull upon deſigne, and did induſtriouſlly rebate my Edge to prolong the Torment of his execution, I deſire Madam, let me bee your ſupplyant in this, that when you have guilded the Pa<g ref="char:EOLhyphen"/>per with the beams of your propoſall, you will confine it after to ſhade and ſolli<g ref="char:EOLhyphen"/>tude, both becauſe <hi>Satyrs</hi> like Bandog ac<g ref="char:EOLhyphen"/>quire a fiercenſs by being tyed up, and with<g ref="char:EOLhyphen"/>all becauſe it is the opinion of your ſervant
+<pb facs="tcp:165342:4"/>
+               <!-- PDF PAGE 10 -->that publiſhed Compoſitions are but ſo many Breves that wander for the Al<gap reason="illegible: bleedthrough" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>s
+ of approbation.</p>
+            <closer>
+               <salute>MADAM,</salute> 
+               <signed>He that with reverence ad<g ref="char:EOLhyphen"/>mires your vertues. <hi>I: C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165342:4"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Character of a Country Committee Man with the Eare-marke of a Sequeſtrator.</head>
+            <p>A Committee man by his name ſhould be one that is poſſeſſed, that's number enough in the compel<g ref="char:EOLhyphen"/>lation to make it an Epithite for Legion; he is <hi>per<g ref="char:EOLhyphen"/>ſona in concreto</hi> (to borrow the Soleciſme of a mo<g ref="char:EOLhyphen"/>derne Stateſman) you may tranſlate it by the red bull phraſe and ſpeak as properly, enter ſeven devills <hi>ſolus,</hi> It is a well truſt title that contains both the number and the beaſt. For a Committee-man is a noun of Multitude, he muſt be ſpel<g ref="char:EOLhyphen"/>led with figures, like Antichriſt wrapped in a paire, Royall of Sixes, thus the name is as monſtrous as the man, a com<g ref="char:EOLhyphen"/>pleat notion of the ſame linnage with accomulative treaſon, for his office, it is the reſurrection of the Heptarchy or <hi>Eng<g ref="char:EOLhyphen"/>land</hi> fritters, it is the broken meat of a Crumbling Prince, only the Royalty is greater, for it is here, as in the miracle of Loaves the voyder exceeds the Bill of fare, the Pope and he rings the Changes; here is a plurality of Crowns to one head, Joyne them together and ther's harmony in diſcord, the Tripple crowned Turn-Key of Heaven, with the tripple headed porter of hell, A Committee-man is the reliques of Regall Go<g ref="char:EOLhyphen"/>vernment, but like holy reliques he out bulks the ſubſtance
+<pb n="2" facs="tcp:165342:5"/>
+               <!-- PDF PAGE 11 -->whereof he is a remnant, ther's a ſcore of Rings in a Com<g ref="char:EOLhyphen"/>mittee as in the reliques of the Croſſe, ther's the number of twenty, This is the Gyant with the hundred hands that weilds the Scepter, the tyrannicall Beade-Roule by which the Kingdome prays backward, and with a kind of <hi>Rebus</hi> at every Curſe drops a Committee man, Let <hi>CHARLES</hi> be wayned whoſe conducing clemency agravates the de<g ref="char:EOLhyphen"/>fection, and make <hi>Nero</hi> the queſtion, better a <hi>Nero</hi> then a Committee, Ther's leſſe examination by a ſingle Bullet then by caſe ſhot.</p>
+            <p>Now a Committee-man is a party coloured officer, he muſt be drawne like <hi>Janus</hi> with Croſſe and Pile in his countenance, as he relates to the Souldiers, or face about to his fleecing the Country, looke upon him Martially and he is a Juſtice of Warre.</p>
+            <p>One that hath bound his <hi>Dalton</hi> up in Buffe, and will needs be of the <hi>quorum</hi> to the beſt Commanders, he is one of <hi>Mars</hi> his Lay Elders, he ſhares in the Government, though a Non-conformiſt to his bleeding Rubick, he is the like Se<g ref="char:EOLhyphen"/>ctary in Armes as the Platonick is in love, keep a flattering in diſcourſe but proves haggard in the action; he is not of the Souldiers and yet of his flock, it is an embleme of the gol<g ref="char:EOLhyphen"/>den age (and ſuch indeed he makes it) to him, when ſo tame a Pigeon may commerce with vultures, Me thinks a Com<g ref="char:EOLhyphen"/>mittee hanging about a Governour and Bandleirs, dangling about furd Alderman have an Anagrame reſemblance, ther's no Syntax between a Cap of maintenance and a helmet, who ever knew an enemy routed by a Grand Jury, and a <hi>bil<g ref="char:EOLhyphen"/>la vera:</hi> it is a left handed Garriſon where their authority perches, but the more prepoſterous the more in faſhion the right hand fights while the left rules the Reins, the truth is the Souldier and the Gentleman are like <hi>Don Quicchott</hi> and <hi>Sancho Pancha</hi> one fights at all adventures to purchaſe the other, the Government of the Iſland, a Committe-man pro<g ref="char:EOLhyphen"/>perly ſhould be the Governour Natroſſe to fit his tackle, and to new ſtring him with ſinnews of Warre for his chief uſe to raiſe aſſeſſements in the neighbouring Wapentake.</p>
+            <p>
+               <pb n="3" facs="tcp:165342:5"/>
+               <!-- PDF PAGE 11 -->
+The Country people being like an Iriſh Cow, that will not give downe the Milk unleſſe ſhe ſee her Calf before her: hence it is, he is the Garriſons dry Nurce, he chews their Con<g ref="char:EOLhyphen"/>tribution before he feeds them, ſo the poor Souldiers live like <hi>Trochilus</hi> by picking the teeth of this ſated Crocoadile.</p>
+            <p>So much for his warlike or ammunition face which is ſo preturnaturall that it is rather a vizard then a face, <hi>Mars</hi> in him hath but a blinking aſpect, his face of Arms is like his <hi>Coate partie per pale,</hi> Souldier and Gentleman much of a ſcantling.</p>
+            <p>Now enter his Taxing and deglubing face, a ſqueezing look like that of <hi>Veſpaſians</hi> as if he were breeding over a cloſeſtoole. Take him thus and he is the Inquiſition of the purſe, an Auchentick Gypſie, that Nips your bung with a canting Ordinance, not a murthered fortune in all the Coun<g ref="char:EOLhyphen"/>try but bleeds at the touch of this malefactor, he is the ſpleen of the body politick that ſwells it ſelf to the conſumption of the whole, at firſt indeed he ferretted for the Parliament, but ſince he hath got of his Cope, he ſet up for himſelf, he lives upon the ſins of the people, and that's a good ſtanding diſh too, he verifies the Axiom <hi>Eiſdom mutritur ex quibus com<g ref="char:EOLhyphen"/>poniter,</hi> his dyet is ſuitable to his conſtitution, I have won<g ref="char:EOLhyphen"/>dred often why the plundred Country-men ſhould repaire to him for ſuccor, certainly it is under the ſame notion as one whoſe pockets are pickt goes to <hi>Mol: Cutpurſe</hi> as the predomi<g ref="char:EOLhyphen"/>nant in that faculty.</p>
+            <p>He out dives a Dutchman, gets a noble of him that was never worth ſix pence, for the pooreſt eſcape not, but Dutch like he will be dreyning even in the dryeſt ground, he Aliens a Delinquents Eſtate with as little remorſe as his other ho<g ref="char:EOLhyphen"/>lineſſe gives away an Hereticks Kingdome, and for the truth of the Delinquency, both Chapmen have a little ſhare of Infallability, Lye is the Grand Sallad of Arbitrary Govern<g ref="char:EOLhyphen"/>ment, Executor to the Star-Chamber, and High-Commiſſion for thoſe Courts are not extinct, they ſurvive in him like Dol<g ref="char:EOLhyphen"/>lary changed into ſingle monys, to ſpeak the truth hee's the univerſall tribunall for ſince theſe times, all cauſes fall to his
+<pb n="4" facs="tcp:165342:6"/>
+               <!-- PDF PAGE 12 -->Cognizance, as in a great infection diſeaſes oft turn to the plague it concernes our Maſters the Parliament to look about them <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he proceeds at this rate, the Jack may come to ſwallow the Pike, as the intereſt often eats out the principall, as his commands are great, ſo he looks for reverence accordingly; He is very pun<g ref="char:EOLhyphen"/>ctuall in exacting your hat, and to ſay right, it is his due, but by the ſame title, as the upper garment is the vailes of the exe<g ref="char:EOLhyphen"/>cutioner; There was a time when ſuch cattell would have hardly been taken upon ſuſpition for men in office, unleſſe the old proverb were renewed, and beggers make a free company, and thoſe their wardens; you may ſee what it is to hang toge<g ref="char:EOLhyphen"/>ther, look upon them ſeverally, and you cannot but fumble for ſome threeds of charitie, but oh they are Tarmagants in con<g ref="char:EOLhyphen"/>junction, like Fidlers who are Rogues when they goe ſingly, and joyned in conſort, gentlemen Muſitioners. I care not much if I untwiſt my Committee-man, and ſo give him the receipt of this grand Catholican, take a State Martyr, one that for his good behaviour, hath paid the Exciſe of his ears, ſo ſuffered Captivitie by the Land-piracie of Ship-money, next a primi<g ref="char:EOLhyphen"/>tive free-holder.</p>
+            <p>One that hates the King, becauſe he is a Gentleman tranſ<g ref="char:EOLhyphen"/>greſſing the <hi>Magna Charta</hi> of delving <hi>Adam.</hi> Adde to theſe a Mortified Bankerupt that helpes out his falſe Weights with ſome ſcruples of conſcience, and with his peremptorie ſcales can doome his Prince with a <hi>Mene tecall.</hi> Theſe with a new blew-ſtocking'd Juſtice lately made of a good basket-hilted Yeoman, with a ſhort-handed Clerke tack't to the Reare of him, to carry the Knapſack of his underſtanding, together with two or three Equivocall Sirs, whoſe Religion like their Gentility is the Extract of their Acres, being therefore ſpiri<g ref="char:EOLhyphen"/>tuall, becauſe they are earthly; Not forgetting the man of Law, whoſe corruption gives the <hi>Hogan</hi> to the ſincerer Jun<g ref="char:EOLhyphen"/>cto; Theſe are the ſimples of this pretious Compound, a kind of Dutch hotch-potch, the <hi>Hogan Mogan</hi> Committee<g ref="char:EOLhyphen"/>man.</p>
+            <p>A Commettee-man hath a Side-man, or rather a ſetter hight a Sequeſtrator, of whom you may ſay, as of the great
+<pb n="5" facs="tcp:165342:6"/>
+               <!-- PDF PAGE 12 -->Sultans horſe, where he treads the graſſe growes no more. Hee is the States Cormorant, one that fiſhes for the Publique, but feeds himſelfe, the miſerie is, he fiſhes without the Cormo<g ref="char:EOLhyphen"/>rants propertie, a rope to ſtreighten the gullet, and to make hime diſgorge. A Sequeſtrator! hee is the Devills Nuthooke, the ſigne with him is alwaies in the clutches. There's more Monſters retaine to him, then to all the limbes in Anatomie. 'Tis ſtrange Phyſicians doe not apply him to the ſoles of the feet in a deſperate Feavour, he drawes farre beyond Pigeons: I hope ſome Mountebanke will ſlice him, and make the Expe<g ref="char:EOLhyphen"/>riment. Hee is a tooth-drawer once removed, here's all the difference one applauds the Grinder, and the other the Griſt. Never till now could I verifie the Poets deſcription, that the ravenous Harpie had a humane viſage: Death it ſelfe cannot quit ſcores with him, like the Demoniack in the Goſpel hee lives among Tombes Nor is all the holy-water ſhed by Wi<g ref="char:EOLhyphen"/>dowes and Orphans a ſufficient Exorciſme to diſpoſſeſſe him. Thus the Cat ſucks your breath, and the Fiend your blood; Nor can the Brotherhood of Witchfinders ſo ſagely inſtituted with all their terrour weane the Familiars.</p>
+            <p>But once more to ſingle out my imboſt Committee-man his Fate (for I know you would fain ſee an end of him) is either a whipping Audit, when he is wrung in the withers by a Committee of Examinations; And ſo the ſpunge weeps out the moyſture which he ſoaked before, or elſe he meets his paſ<g ref="char:EOLhyphen"/>ſing peale in the clamorous mutiny of a gut-foundred Garri<g ref="char:EOLhyphen"/>ſon; For the Hedge-ſparrow will be feeding the Cuckow, till he miſtake his Commons, and bite off her head. What-ever 'tis, it is within his deſert, for what is obſerved of ſome Crea<g ref="char:EOLhyphen"/>tures, that at the ſame time they trade in productions three ſtories high<g ref="char:punc">▪</g> ſuckling the firſt, bigg with the ſecond, and cliket<g ref="char:EOLhyphen"/>ting for the third; A Committeman in the Counterpoint, his Miſchiefs ſuperfetation a certaine ſcale of deſtruction, for hee ruines the Father, beggars the Sonne, and ſtrangles the hopes of all poſteritie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
